@@ -1,2 +1,2 @@
-# TODO-APP-Using-Rdux-Combine-Reducer
+# Todo-List-Uding-Redux-Thunk
 Created with CodeSandbox
